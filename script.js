@@ -1,0 +1,1 @@
+console.log("The addition is" , 4+6);
